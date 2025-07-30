@@ -25,7 +25,7 @@ A simple web app that compares a resume with a job description using NLP to calc
 ## Run Locally
 
 ```bash
-git clone https://github.com/yourusername/resume-keyword-analyzer
+git clone https://github.com/Mohamed-Irshad-A/resume-keyword-analyzer.git
 cd resume-keyword-analyzer
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
