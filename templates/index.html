@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Resume Matcher</title>
+        <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
+    </head>
+    <body>
+        <h2>Resume vs Job Description</h2>
+        <form method="post">
+            <textarea name="resume" placeholder="Paste your resume text ...." required></textarea><br>
+            <textarea name="job" placeholder="Paste Job Description...." required></textarea><br>
+            <button type="submit">Analyze</button>
+        </form>
+    </body>
+</html>
