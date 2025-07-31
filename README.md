@@ -17,10 +17,10 @@ A simple web app that compares a resume with a job description using NLP to calc
 ## Screenshot
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ### Result Page
-![Result](screenshots/result.png)
+![Result](screenshots/Result.png)
 
 ## Run Locally
 
